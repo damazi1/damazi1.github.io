@@ -26,13 +26,13 @@ description: >- # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog
 domain: "damazi1.github.io"       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
 url: "https://damazi1.github.io" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+linkedin_username: dawid-ziora-4ab36327a
+github_username:  damazi1 # the name of the github repo that will be used to deploy your site, e.g. jekyll/jekyll
 
 # Build settings
 theme: minima
 plugins:
-  - jekyll-feed
+  # - jekyll-feed
   - "jekyll-github-metadata"
 
 # Exclude from processing.
