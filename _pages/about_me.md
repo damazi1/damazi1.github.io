@@ -5,4 +5,4 @@ In my free time I enjoy working on personal projects and studying new technologi
 I also founded a science club at my university to unite students that also likes 3D print like me.
 [My club Page](https://trzeciwymiar.pcz.pl)
 
-I can be found at [github](https://github.com/damazi1), [linkedin](www.linkedin.com/in/dawid-ziora-4ab36327a)
+I can be found at [GitHub](https://github.com/damazi1), [LinkedIn](https://www.linkedin.com/in/dawid-ziora-4ab36327a)
