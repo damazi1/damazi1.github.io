@@ -15,6 +15,7 @@ profiles:
       <p>☎️: +48 608 547 915</p>
       <p>🌍: Poland</p>
       <p>🏙️: Częstochowa,  42-200</p>
+
 #  - align: left
 #    image: prof_pic.jpg
 #    content: about_me.md
